@@ -1,0 +1,72 @@
+# Menu items
+repair: Ремонт
+myOrder: Мои заказы
+profile: Профиль
+payment: Оплата
+setting: Настройки
+company: Компания
+support: Поддержка
+
+lang: Язык
+
+exit: Выход
+
+next: Дальше
+
+unrequire: Необязательно
+
+# Headers
+tell_about_yourself: Расскажите о себе
+telL_about_company: Расскажите о вашей компании
+
+profile_type_header: Выберите тип профиля
+profile_type_desc: «Клиент» для ремонта личной техники, «Компания» для корпоративного обслуживания
+
+notification_header: Как хотите получать уведомления?
+notification_desc: Будем держать вас в курсе статуса заказа, предложений и важной информации
+
+additional_contact_header: Дополнительный контакт
+additional_contact_desc: Резервный контакт поможет нам оставаться на связи, если с основным контактом произойдут проблемы
+
+success_header: ваш профиль готов к работе!
+success_subheader: Теперь вы можете быстро и легко заказывать ремонт, следить за статусом своих заявок и многое другое.
+
+# Profile Type Page
+
+user_profile: Личный Профиль
+company_profile: Профиль компании
+
+# Data Page
+name: Имя
+surname: Фамилия
+phone: Телефон
+mail: Email
+
+id_company: ID компании
+name_company: Название компании
+mail_company: Email компании
+your_position: Ваша должность
+
+name_plh: Введите ваше имя
+surname_plh: Введите вашу фамилию
+phone_plh: +972 00-000-00-00
+mail_plh: Введите ваш email
+
+id_company_plh: 'Например: 1234567890'
+name_company_plh: 'Например: ООО «Ремонт»'
+mail_company_plh: 'Введите email компании'
+your_position_plh: 'Например: менеджер, инженер'
+
+# Statusbar
+
+statusbar_profile: Профиль
+statusbar_data: Данные
+statusbar_notification: Уведомления
+
+to_main: На главную
+
+# error popup
+
+error_header: Что-то пошло не так...
+error_desc: Пожалуйста, перепроверьте введённые данные и нажмите кнопку отправки ещё раз
+error_button: Проверить и отправить

@@ -1,0 +1,71 @@
+# Menu items
+repair: תיקון
+myOrder: התיקונים שלי
+profile: פרופיל
+payment: תשלום
+setting: הגדרות
+company: חברה
+support: תמיכה
+
+lang: שפה
+
+exit: יציאה
+
+next: הלאה
+
+unrequire: לא חובה
+
+# Headers
+tell_about_yourself: ספר על עצמך
+telL_about_company: בחר את סוג הפרופיל
+
+profile_type_header: בחר את סוג הפרופיל
+profile_type_desc: «לקוח» לתיקון טכנולוגיה אישית, «חברה» לשירות ארגוני
+
+notification_header: איך אתה רוצה לקבל הודעות?
+notification_desc: אנו נשמור עליך מעודכן בקשר לסטטוס ההזמנה, הצעות ומידע חשוב
+
+additional_contact_header: איש קשר נוסף
+additional_contact_desc: איש קשר נוסף יעזור לנו להשאר בקשר, אם יהיו בעיות עם איש הקשר העיקרי
+
+success_header: הפרופיל שלך מוכן לעבודה!
+success_subheader: עכשיו אתה יכול להזמין תיקון בצורה מהירה וקלה, לעקוב אחרי מצב ההזמנות שלך ועוד הרבה
+
+# Profile Type Page
+
+user_profile: פרופיל אישי
+company_profile: פרופיל חברה
+
+# Data Page
+name: השם הפרטי
+surname: השם המשפחה
+phone: טלפון
+mail: דוא"ל
+
+id_company: מספר החברה
+name_company: שם החברה
+mail_company: דוא"ל של החברה
+your_position: התפקיד שלך
+
+name_plh: הזן את שמך
+surname_plh: הזן את שם המשפחה שלך
+phone_plh: +972 00-000-00-00
+mail_plh: הזן את הדוא"ל שלך
+
+id_company_plh: 'לדוגמה: 1234567890'
+name_company_plh: 'לדוגמה: «שירות ותיקונים»'
+mail_company_plh: הזן את הדוא"ל של החברה
+your_position_plh: 'לדוגמה: מנהל, מהנדסך'
+
+# Statusbar
+
+statusbar_profile: התראות
+statusbar_data: נתונים
+statusbar_notification: פרופיל
+
+to_main: לעבור לדף הראשי
+
+
+error_header: משהו לא הסתדר...
+error_desc: אנא בדוק שנית את המידע שהזנת ולחץ שוב על כפתור השליחה
+error_button: בדיקה ושליחה

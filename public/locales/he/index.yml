@@ -1,0 +1,80 @@
+label_phone: טלפון
+label_password: סיסמה
+label_mail: Почта
+label_repeat_password: חזור על הסיסמה
+
+placeholder_phone: +972 XXX-XXX-XX-XX
+placeholder_email: Введите email
+placeholder_password: כתוב סיסמה
+placeholder_password_repeat: חזור על הסיסמה
+placeholder_authCode: קוד מ-SMS
+
+button_insert: כתוב סיסמה
+button_new_account: צור חשבון חדש
+
+phone: טלפון
+mail: Почта
+
+header_reg_1: הרשמה
+header_reg_2:
+header_reg_3:
+
+resend_code: לשלוח קוד שוב?
+code_send: קוד נשלח. ניתן לבקש קוד מחדש לאחר
+seconds: שניות
+
+subtitle_reg_1: נשלח לך SMS עם קוד למספר הטלפון שלך
+get_code_mail: Получить код на Email
+get_code_phone: לקבל SMS קוד
+cant_get_code: У меня нет доступа к телефону
+prove_number: לאמת מספרי טלפון
+
+header_auth_2: אימות מספר טלפון
+header_auth_1: כניסה
+dont_register: אין לך חשבון?
+
+we_send_sms: אנחנו שלחנו SMS עם קוד לטלפון
+
+cookie_setting: cookie
+confidence_politic: Политика конфиденциальности
+confidence_politic_v2: מדיניות הפרטיות
+
+user_agres: תנאי שימוש
+
+forget_password: שכחת/ה סיסמה?
+
+recovery_header_1: שחזור סיסמא
+recovery_send_sms: קוד נשלח. ניתן לבקש קוד מחדש לאחר
+
+recovery_password: לקבל SMS קוד
+
+step: Шаг
+from: 'из '
+
+header_new_password: צור סיסמה
+
+subtext_new_password: עליך להזין לפחות 8 סמלים
+
+new_password_subtext: עליך להזין לפחות 8 סמלים
+
+new_password_button_reg: להירשם
+
+new_password_button_auth: להירשם
+
+notify_reg_part_1: בהרשמה את/ה מקבל/ת את
+
+notify_reg_part_2: ו
+
+back: אחורה
+
+reg_success_header: ברוך הבא ל-Serv Expert!<1></1>
+
+reg_success_text: <1>תהנה מהשימוש!</1>לפני שאתה מתחיל, אנו ממליצים למלא מידע אודותך. זה יעזור לנו להציע לך את החוויה הטובה ביותר
+
+button_user_cab: לעבור לאזור האישי
+
+button_create_order: ליצור הזמנה
+
+password_update: הסיסמא שלך עודכנה
+
+can_pass_user_acc: עכשיו אתה יכול להשתמש בסיסמה החדשה שלך להתחבר

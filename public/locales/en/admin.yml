@@ -1,0 +1,19 @@
+orders: Orders
+clients: Clients
+documents: Documents
+catalog: Catalog
+settings: Settings
+lang: Language
+exit: Exit
+devices: Device Type
+malfunctions: Malfunctions
+favors: Services
+goods: Spare parts
+resetFilt: Reset filters
+addPart: Add a part
+selectedParts: parts are selected
+delete: Delete
+part: Part
+nameForCustomer: Name for the customer
+compat: Compatibility
+type1: Type

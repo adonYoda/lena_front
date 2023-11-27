@@ -1,0 +1,31 @@
+.selector {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    width: 100%;
+    border-bottom: 1px solid rgba(0, 16, 61, 0.12);
+}
+
+.selector-item {
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    color: #bfc0c7;
+    position: relative;
+    display: flex;
+    gap: 4px;
+}
+
+.selector-item.active {
+    color: black;
+}
+
+.selector-item.active::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background: #3a55f8;
+    width: 100%;
+    height: 2px;
+}

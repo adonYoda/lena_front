@@ -1,0 +1,28 @@
+.sidebar-enter {
+    opacity: 0;
+    transform: translateX(-100vw);
+}
+.sidebar-enter-active {
+    opacity: 1;
+    transform: translateX(0);
+    transition: opacity 300ms, transform 300ms;
+}
+.sidebar-exit {
+    transform: translateX(0);
+    opacity: 1;
+}
+.sidebar-exit-active {
+    opacity: 0;
+    transform: translateX(-100vw);
+    transition: opacity 300ms, transform 300ms;
+}
+
+.sidebar-enter-reverse {
+    opacity: 0;
+    transform: translateX(100vw);
+}
+
+.sidebar-exit-active-reverse {
+    opacity: 0;
+    transform: translateX(100vw);
+}

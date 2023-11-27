@@ -1,0 +1,18 @@
+error_phone: Incorrect phone number. Please make sure the number is entered correctly (e.g., +972 050 755 9000).
+error_mail: Invalid address. Please try again or enter a different one.
+error_code: Wrong code.
+
+small_password: Password is too short.
+password_not_compare: Passwords do not match.
+
+user_not_found: No account with this phone number. Please check the number or register.
+wrong_password: Incorrect password. Please try again or use <1>password recovery</1>.
+number_already_exist: This number is already registered. Please try again or enter another one.
+
+code_is_incorrect: Wrong code.
+code_resend_error: You can request a new code through...
+
+unavailable_symbols: The field contains invalid characters.
+different_langs: The "First Name" and "Last Name" fields are written in different languages.
+
+link_expired: This link is no longer active. Please proceed with the registration from the beginning!

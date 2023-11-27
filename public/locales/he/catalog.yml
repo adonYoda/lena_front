@@ -1,0 +1,50 @@
+action: פעולה
+addFavor: הוסף שירות
+addPrice: הוסף מחיר
+addSubtype: הוסף תת-סוג
+cancel: בטל
+cantDelFav: אין אפשרות למחוק את השירות
+cantDelPart: החלק המחליף משמש בהצעה מסחרית פעילה. תוכל למחוק את החלק המחליף לאחר שההצעה המסחרית הושלמה
+color1: צבע
+confirmDeletePart: האם אתה בטוח שאתה רוצה למחוק את החלק המחליף?
+confirmDeleteService: האם אתה בטוח שברצונך למחוק את השירות?
+deleteWarning: לאחר המחיקה, לא יהיה אפשר להשתמש בו בהצעה המסחרית
+DelFavWarning: השירות משמש בהצעה המסחרית הפעילה. תוכל למחוק את השירות לאחר שההצעה המסחרית הושלמה
+DelPartWarning: החלק המחליף משמש בהצעה מסחרית פעילה. תוכל למחוק את החלק המחליף לאחר שההצעה המסחרית הושלמה
+Device type: סוג המכשיר
+devices: סוג המכשיר
+edit: לערוך
+editFavor: עריכת השירות
+editPart: עריכת חלק חילוף
+enterFavName: הזן את הכותרת
+favor: שירות
+for: מ
+forSubtypes: לאילו תתי-סוגים?
+forType: לאיזה סוג של התקנים?
+howPrice: כמה עולה החלק?
+Malfunction: תקלה
+malfunctions: תקלות
+nameAr: שם בערבית
+nameEn: שם באנגלית
+nameForCust: שם החלק ללקוח
+nameForTech: שם החלק, לטכנאי
+nameHe: שם בעברית (חובה)
+nameRu: שם ברוסית
+newFavor: שירות חדש
+newSparePart: חלק חדש
+№: №
+price: מחיר
+resetFilt: אפס מסננים
+save: שמור
+selectDevices: בחר מכשירים
+favors: שירותים
+goods: חלקי חילוף
+subtype: תת-סוג
+subtype1: תת-סוג המכשיר
+to: עד
+type: סוג המכשיר
+visability: נראות
+whatColor: איזה צבע לחלק?
+selectDevices: בחר מכשירים
+okay: אוקיי
+forWhichModel: ?תואם אילו דגמים

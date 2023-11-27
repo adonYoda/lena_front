@@ -1,0 +1,47 @@
+devices: Device Type
+malfunctions: Malfunctions
+favors: Services
+goods: Spare parts
+edit: Edit
+type: Type  
+№: № 
+Malfunction: Malfunction
+visability: Visibility
+favor: Service
+price: Price
+subtype: Device Subtype
+action: Action
+addFavor: Add a service
+newFavor: New service
+deletePartWarning: After deletion, it will be unavailable when drafting a commercial proposal
+confirmDeletePart: Are you sure you want to delete the spare part?
+confirmDeleteService: Are you sure you want to delete the service?
+editFavor: Editing the service
+selectDevices: Select devices
+subtype1: Subtype
+color1: Color
+resetFilt: Reset filters
+newSparePart: New spare part
+cancel: Cancel
+save: Save
+nameForTech: 1. Part name for technician
+nameForCust: 2. Part name for customer
+nameHe: Name in Hebrew
+nameRu: Name in Russian
+nameEn: Name in English
+nameAr: Name in Arabic
+forType: 4. For what type of devices?
+forSubtypes: 5. For which subtypes?
+addSubtype: Add Subtype
+whatColor: 6. What color is the part?
+howPrice: 7. How much does the part cost?
+for: for
+to: to
+addPrice: Add Price
+cantDelFav: Impossible to delete the service
+DelFavWarning: The service is used in an active commercial offer. You will be able to delete the service once the commercial offer is concluded
+enterFavName: Enter the name
+cantDelPart: Impossible to delete the spare part
+DelPartWarning: The spare part is used in an active commercial offer. You will be able to delete the spare part once the commercial offer is concluded
+editPart: Spare part editing
+deleteWarning: The spare part is used in an active commercial offer. You will be able to delete the spare part once the commercial offer is concluded 

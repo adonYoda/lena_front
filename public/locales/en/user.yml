@@ -1,0 +1,73 @@
+# Menu items
+repair: Repair
+myOrder: My orders
+profile: Account
+payment: Payments
+setting: Settings
+company: Company
+support: Support
+
+lang: Language
+
+exit: Exit
+
+next: Next
+
+unrequire: Optional
+
+# Headers
+tell_about_yourself: About you
+telL_about_company: About your company
+
+profile_type_header: Choose profile type
+profile_type_desc: «Personal account» for personal device repair, «Company account» for corporate services
+
+notification_header: How would you like to receive notifications?
+notification_desc: We will keep you up to date on the status of orders, proposals and important information
+
+additional_contact_header: Additional contact
+additional_contact_desc: Backup contact will help us stay in touch, if problems occur with the main contact
+
+success_header: your account is ready!
+success_subheader: Now you can easily order a repair, monitor the status of your requests, and much more.
+
+# Profile Type Page
+
+user_profile: Personal account
+company_profile: Company account
+
+# Data Page
+name: Name
+surname: Surname
+phone: Phone
+mail: Email
+
+id_company: Company ID
+name_company: Company name
+mail_company: Company email
+your_position: Your position
+
+name_plh: Enter your name
+surname_plh: Enter your surname
+phone_plh: +972 00-000-00-00
+mail_plh: Enter your email
+
+id_company_plh: 'Example: 1234567890'
+name_company_plh: 'Example: LLC «Repair»'
+mail_company_plh: Enter company email
+your_position_plh: 'Example: manager'
+# Notification
+
+# Statusbar
+
+statusbar_profile: Account
+
+statusbar_data: Details
+
+statusbar_notification: Notifications
+
+to_main: Main page
+
+error_header: Something went wrong...
+error_desc: Please double-check the data you've entered and press the submit button again
+error_button: Verify and Submit

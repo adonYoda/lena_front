@@ -1,0 +1,80 @@
+label_phone: Телефон
+label_password: Пароль
+label_mail: Почта
+label_repeat_password: Повторите пароль
+
+placeholder_phone: +972 XXX-XXX-XX-XX
+placeholder_email: Введите email
+placeholder_password: Введите пароль
+placeholder_password_repeat: Введите пароль еще раз
+placeholder_authCode: Код из SMS
+
+button_insert: Войти
+button_new_account: Создать новый аккаунт
+
+phone: Телефон
+mail: Почта
+
+header_reg_1: Регистрация
+header_reg_2:
+header_reg_3:
+
+resend_code: Отправить код повторно?
+code_send: Код отправлен. Повторный код можно запросить через
+seconds: секунд
+prove_number: Подтвердить номер
+
+subtitle_reg_1: "SMS с кодом подтверждения будет отправлено на\u00a0указанный\u00a0номер"
+get_code_mail: Получить код на Email
+get_code_phone: Получить SMS-код
+cant_get_code: У меня нет доступа к телефону
+
+header_auth_2: Подтвердите номер
+header_auth_1: Вход
+dont_register: Не зарегистрированы?
+
+we_send_sms: Мы отправили SMS с кодом на номер
+
+cookie_setting: Настройки cookie
+confidence_politic: Политика конфиденциальности
+confidence_politic_v2: политику конфиденциальности
+
+user_agres: пользовательское соглашение
+
+forget_password: Забыли пароль?
+
+recovery_header_1: Сброс пароля
+recovery_send_sms: "SMS с кодом подтверждения будет отправлено на\u00a0указанный\u00a0номер"
+
+recovery_password: Восстановить пароль
+
+step: Шаг
+from: 'из '
+
+header_new_password: Придумайте пароль
+
+subtext_new_password: Необходимо ввести не менее 8 символов
+
+new_password_subtext: Необходимо ввести не менее 8 символов
+
+new_password_button_reg: Зарегистрироваться
+
+new_password_button_auth: Обновить пароль
+
+notify_reg_part_1: Регистрируясь, вы принимаете
+
+notify_reg_part_2: 'и '
+
+back: Назад
+
+reg_success_header: Добро пожаловать в Serv Expert!
+
+reg_success_text: Перед тем как начать, рекомендуем вам заполнить информацию о себе. Это поможет нам предоставить вам лучший опыт использования.<1/>Приятного пользования!</1>
+
+button_user_cab: Заполнить профиль
+
+button_create_order: Создать заявку на ремонт
+
+password_update: Пароль обновлён
+
+can_pass_user_acc: Теперь вы можете использовать этот пароль для входа в аккаунт

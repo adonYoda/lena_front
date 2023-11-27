@@ -1,0 +1,20 @@
+orders: Заказы
+clients: Клиенты
+documents: Документы
+catalog: Каталог
+settings: Редактирование
+lang: Язык
+exit: Выйти
+devices: Тип устройства
+malfunctions: Поломки
+favors: Услуги
+goods: Запчасти
+resetFilt: Сбросить все фильтры
+addPart: Добавить запчасть
+selectedParts: запчасти выбраны
+delete: Удалить
+part: Запчасть
+nameForCustomer: Название для клиента
+compat: Совместимость
+type1: Тип
+participants: Партнеры

@@ -1,0 +1,79 @@
+label_phone: Phone
+label_password: Password
+label_mail: Почта
+label_repeat_password: Repeat Password
+
+placeholder_phone: +972 XXX-XXX-XX-XX
+placeholder_email: Введите email
+placeholder_password: Enter your password
+placeholder_password_repeat: Enter your password
+placeholder_authCode: Code from SMS
+
+button_insert: Sign in
+button_new_account: Create new account
+
+phone: Phone
+mail: Почта
+
+header_reg_1: Sign up
+header_reg_2:
+header_reg_3:
+
+resend_code: Send the code again?
+code_send: Code was sent. Request code again in
+seconds: seconds
+prove_number: Number verification
+
+subtitle_reg_1: Please enter your phone number. You will receive an SMS with verification code.
+get_code_mail: Получить код на Email
+get_code_phone: Receive SMS-code
+cant_get_code: У меня нет доступа к телефону
+
+header_auth_2: Prove your phone number
+header_auth_1: Log in
+dont_register: Want to sign up?
+
+we_send_sms: We sent you an SMS on number
+
+cookie_setting: Настройки cookie
+confidence_politic: Privacy Policy.
+confidence_politic_v2: Privacy Policy.
+
+user_agres: Terms of use
+
+forget_password: Forgot password?
+
+recovery_header_1: Password reset
+recovery_send_sms: An SMS with a confirmation code will be sent to the specified number
+
+recovery_password: Recover password
+
+step: Шаг
+from: 'из '
+
+header_new_password: Create password
+
+subtext_new_password: Must be at least 8 characters
+
+new_password_subtext: Must be at least 8 characters
+
+new_password_button_reg: Sign up
+
+new_password_button_auth: Update password
+
+notify_reg_part_1: By continuing, you agree to
+
+notify_reg_part_2: 'and '
+
+back: Back
+
+reg_success_header: You have signed up successfully!
+
+reg_success_text: Welcome to Serv Expert! Now you can use all our functionality! Wish you have a nice experience!
+button_user_cab: Your profile
+
+button_create_order: Make your first order
+
+password_update: Your password has been updated
+
+can_pass_user_acc: Welcome to Serv Expert! Now you can use all our functionality! Wish you have a nice experience!
